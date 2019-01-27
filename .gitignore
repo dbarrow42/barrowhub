@@ -1,0 +1,6 @@
+BarrowHubApp/token.json*
+BarrowHubApp/credentials.json
+*.vs*
+BarrowHubApp/obj*
+BarrowHubApp/bin*
+BarrowHubApp/spotify_creds.json

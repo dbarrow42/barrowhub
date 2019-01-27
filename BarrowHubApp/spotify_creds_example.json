@@ -1,0 +1,6 @@
+﻿{
+  "client_id": "",
+  "client_secret": ""
+} 
+
+## Paste creds into the above key-value pairs and rename this file to "spotify_creds.json". Delete this line!
